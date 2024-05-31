@@ -1,4 +1,4 @@
-- Head of NPS-coin
+- NPS-coin founder
 - Student
 - Python DS/blockchain enthusiast
 - Contact me [here](t.me/kkomazz)
