@@ -1,0 +1,4 @@
+- Head of NPS-coin
+- Student
+- Python DS/blockchain enthusiast
+- Contact me [here](t.me/kkomazz)
