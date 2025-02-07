@@ -1,4 +1,3 @@
 - NPS-coin founder
 - Student
 - Python DS/blockchain enthusiast
-- Contact me [here](t.me/princehachiko)
