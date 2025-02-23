@@ -1,3 +1,2 @@
-- NPS-coin founder
-- Student
+
 - Python DS/blockchain enthusiast
